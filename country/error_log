@@ -1,0 +1,13 @@
+[10-Feb-2021 21:04:11 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/namabeba/give-aways.fun/country/be.php on line 2
+[10-Feb-2021 21:04:11 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/namabeba/give-aways.fun/country/be.php on line 2
+[10-Feb-2021 21:04:11 UTC] PHP Parse error:  syntax error, unexpected '$header_be' (T_VARIABLE) in /home/namabeba/give-aways.fun/language/be.php on line 2
+[10-Feb-2021 21:04:15 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/namabeba/give-aways.fun/country/be.php on line 2
+[10-Feb-2021 21:04:15 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/namabeba/give-aways.fun/country/be.php on line 2
+[10-Feb-2021 21:04:15 UTC] PHP Parse error:  syntax error, unexpected '$header_be' (T_VARIABLE) in /home/namabeba/give-aways.fun/language/be.php on line 2
+[10-Feb-2021 21:04:16 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/namabeba/give-aways.fun/country/be.php on line 2
+[10-Feb-2021 21:04:16 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/namabeba/give-aways.fun/country/be.php on line 2
+[10-Feb-2021 21:04:16 UTC] PHP Parse error:  syntax error, unexpected '$header_be' (T_VARIABLE) in /home/namabeba/give-aways.fun/language/be.php on line 2
+[10-Feb-2021 21:04:32 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/namabeba/give-aways.fun/country/us.php on line 2
+[10-Feb-2021 21:04:32 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/namabeba/give-aways.fun/country/us.php on line 2
+[10-Feb-2021 21:05:22 UTC] PHP Warning:  include_once(config.php): failed to open stream: No such file or directory in /home/namabeba/give-aways.fun/country/us.php on line 2
+[10-Feb-2021 21:05:22 UTC] PHP Warning:  include_once(): Failed opening 'config.php' for inclusion (include_path='.:/opt/cpanel/ea-php73/root/usr/share/pear') in /home/namabeba/give-aways.fun/country/us.php on line 2
